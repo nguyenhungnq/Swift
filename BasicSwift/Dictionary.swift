@@ -15,5 +15,7 @@ feelGoodAboutMyself = amICool ? true : false
 
 var bankAccountBalance = 100
 
-var cashRegisterMessage = bankAccountBalance >= 150 ? "You just bought the item" : "You are broke as a joke"
 
+
+//This is optional example
+var name: String?
